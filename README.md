@@ -1,10 +1,11 @@
-![derenv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=derenv&show_icons=true&include_all_commits=true&count_private=true)
+![derenv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=derenv&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark)
 
 <!--
-above copied from https://github.com/grazzolini/grazzolini/blob/main/README.md
-
+https://github.com/anuraghazra/github-readme-stats
 **derenv/derenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
