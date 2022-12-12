@@ -29,7 +29,9 @@ https://github.com/anuraghazra/github-readme-stats
 ## Other Contacts and Social Media
 * **Discord**: lokonu#7794
 
-* **Twitter**: https://twitter.com/_lokonu
+* **Mastadon**: https://fosstodon.org/@lokonu
+
+* **Linkedin**: https://www.linkedin.com/in/deren-vural-a66763205/
 
 * **Ko-Fi**: https://ko-fi.com/lokonu
 
