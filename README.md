@@ -31,6 +31,8 @@ https://github.com/anuraghazra/github-readme-stats
 
 * **Twitter**: https://twitter.com/_lokonu
 
+* **Ko-Fi**: https://ko-fi.com/lokonu
+
 <!--
 The above section is straight up taken from https://github.com/ItzSwirlz/ItzSwirlz/edit/main/README.md
 -->
