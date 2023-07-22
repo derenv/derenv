@@ -16,22 +16,21 @@ https://github.com/anuraghazra/github-readme-stats
 -->
 
 ## Info
-* **Areas of Work:** Scripting, Graphics programming, 
+* **Areas of Work:** Graphics programming, Scripting & Linux Server Management
 
-* **Main Languages**: C/C++, Rust, Java, Bash, Python
+* **Main Languages**: C/C++, Rust, Bash, Python & Java
 
-* **Other Used Languages**: C#, Javascript, Powershell, Batch
+* **Other Used Languages**: C#, Javascript, Batch & Powershell
 
 * **Toolkits I've used**: GTK, Qt, Flutter
 
-* **Main Distribution**: Manjaro KDE
+* **Main OS Distribution**: Fedora KDE
+
+* **Other OS Distributions I've used**: Manjaro, Ubuntu, Arch, Nobara, RHEL
 
 ## Other Contacts and Social Media
-* **Discord**: lokonu#7794
 
-* **Mastadon**: https://fosstodon.org/@lokonu
-
-* **Linkedin**: https://www.linkedin.com/in/deren-vural-a66763205/
+* **Linkedin**: https://www.linkedin.com/in/deren-vural/
 
 * **Ko-Fi**: https://ko-fi.com/lokonu
 
