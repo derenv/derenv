@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm a PHD student in Computing Science at the University of Dundee, interested in all things Linux, Server Management, Virtualisation, scripting and graphics programming. I like experimenting with new toolkits and languages, and customising the tools i use.
+I'm a PHD student in Computing Science at the University of Dundee, interested in all things Linux, Server Management, Virtualisation, scripting and graphics programming. I like experimenting with new tools and languages.
 
 ### Stats
 
