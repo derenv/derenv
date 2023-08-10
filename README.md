@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm a PHD student in Computing Science at the University of Dundee, interested in all things Linux (Desktop and Server!), scripting and graphics programming. I like experimenting with new toolkits and languages, and customising the tools i use. nano 4 lyf
+I'm a PHD student in Computing Science at the University of Dundee, interested in all things Linux, Server Management, Virtualisation, scripting and graphics programming. I like experimenting with new toolkits and languages, and customising the tools i use.
 
 ### Stats
 
