@@ -4,11 +4,13 @@ I'm a PHD student in Computing Science at the University of Dundee, interested i
 
 ### Stats
 
-![derenv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=derenv&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark)
+#### GitHub Stats
 
-[![derenv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derenv&langs_count=50&theme=solarized-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![derenv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derenv&langs_count=50&theme=solarized-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![derenv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=derenv&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark)
 
-[![derenv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lokonu&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+#### WakaTime Stats
+
+![derenv's wakatime stats](https://wakatime.com/share/@lokonu/23f8e5e4-896e-4a80-9e09-ad7ae118085f.svg)
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
