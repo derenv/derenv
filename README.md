@@ -12,6 +12,8 @@ I'm a PHD student in Computing Science at the University of Dundee, interested i
 
 ![derenv's wakatime stats](https://wakatime.com/share/@lokonu/23f8e5e4-896e-4a80-9e09-ad7ae118085f.svg)
 
+![derenv's wakatime stats](https://wakatime.com/share/@lokonu/71b81647-d89a-4ebe-a322-f1a6fb389cf5.svg)
+
 <!--
 https://github.com/anuraghazra/github-readme-stats
 **derenv/derenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
