@@ -34,10 +34,12 @@ https://github.com/anuraghazra/github-readme-stats
 
 ## Other Contacts and Social Media
 
-* **Linkedin**: https://www.linkedin.com/in/deren-vural/
+* [**Linkedin**](https://www.linkedin.com/in/deren-vural/)
 
-* **Ko-Fi**: https://ko-fi.com/lokonu
+* [**Ko-Fi**](https://ko-fi.com/lokonu)
 
 <!--
 The above section is straight up taken from https://github.com/ItzSwirlz/ItzSwirlz/edit/main/README.md
 -->
+
+![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/-1/0/lokonu/-1/0)![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/-1/0/lokonu/-1/1)
