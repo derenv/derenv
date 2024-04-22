@@ -14,10 +14,11 @@ I'm a PHD student in Computing Science at the University of Dundee, interested i
 
 ![derenv's wakatime stats](https://wakatime.com/share/@lokonu/71b81647-d89a-4ebe-a322-f1a6fb389cf5.svg)
 
-<!--
-https://github.com/anuraghazra/github-readme-stats
-**derenv/derenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+#### Folding at Home
+
+![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/-1/0/lokonu/-1/0)![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/-1/0/lokonu/-1/1)
+
+<!--Stats badges about [Folding At Home](https://foldingathome.org/) created using [badgegen](https://badgen.net/) and [napkin](https://www.napkin.io)-->
 
 ## Info
 * **Areas of Work:** Graphics programming, Scripting & Linux Server Management
@@ -38,8 +39,3 @@ https://github.com/anuraghazra/github-readme-stats
 
 * [**Ko-Fi**](https://ko-fi.com/lokonu)
 
-<!--
-The above section is straight up taken from https://github.com/ItzSwirlz/ItzSwirlz/edit/main/README.md
--->
-
-![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/-1/0/lokonu/-1/0)![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/-1/0/lokonu/-1/1)
