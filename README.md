@@ -18,7 +18,7 @@ I'm a PHD student in Computing Science at the University of Dundee, interested i
 
 ![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/lokonu/0)![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/lokonu/1)
 
-<!--Stats badges about [Folding At Home](https://foldingathome.org/) created using [badgegen](https://badgen.net/) and [napkin](https://www.napkin.io)-->
+<!--Stats badges about [Folding At Home](https://foldingathome.org/) created using [badgegen](https://badgen.net/) and [napkin](https://www.napkin.io), see [here](https://www.napkin.io/n/9542bc1b747b42d2) for source code/API endpoint-->
 
 ## Info
 * **Areas of Work:** Graphics programming, Scripting & Linux Server Management
