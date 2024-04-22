@@ -16,7 +16,7 @@ I'm a PHD student in Computing Science at the University of Dundee, interested i
 
 #### Folding at Home
 
-![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/-1/0/lokonu/-1/0)![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/-1/0/lokonu/-1/1)
+![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/lokonu/0)![](https://badgen.net/https/7nurzgmzv.npkn.net/fah-badge/lokonu/1)
 
 <!--Stats badges about [Folding At Home](https://foldingathome.org/) created using [badgegen](https://badgen.net/) and [napkin](https://www.napkin.io)-->
 
