@@ -39,3 +39,6 @@ I'm a PHD student in Computing Science at the University of Dundee, interested i
 
 * [**Ko-Fi**](https://ko-fi.com/lokonu)
 
+<!--
+The above section is a modified version of https://github.com/ItzSwirlz/ItzSwirlz/edit/main/README.md
+-->
