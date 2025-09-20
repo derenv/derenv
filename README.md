@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm a PhD student in Computing Science at the University of Dundee, interested in all things Linux, Server Management, Virtualisation, scripting and graphics programming. I like experimenting with new tools and languages.
+I'm a Software Engineer at NCR Atleos, interested in all things Linux, Server Management, Virtualisation, scripting and graphics programming. I like experimenting with new tools and languages.
 
 ### Stats
 
@@ -21,13 +21,13 @@ I'm a PhD student in Computing Science at the University of Dundee, interested i
 <!--Stats badges about [Folding At Home](https://foldingathome.org/) created using [badgegen](https://badgen.net/) and [napkin](https://www.napkin.io), see [here](https://www.napkin.io/n/9542bc1b747b42d2) for source code/API endpoint-->
 
 ## Info
-* **Areas of Work:** Graphics programming, Scripting & Linux Server Management
+* **Areas of Work:** C++20 Qt applications, C++20 libraries, Graphics programming, Scripting & Linux Server Management
 
-* **Main Languages**: C/C++, Rust, Bash, Python & Java
+* **Main Languages**: C/C++, Python, Powershell, Bash & C#
 
-* **Other Used Languages**: C#, Javascript, Batch & Powershell
+* **Other Used Languages**: Rust, Java, TypeScript
 
-* **Toolkits I've used**: GTK, Qt, Flutter
+* **Toolkits I've used**: Qt, WPF, GTK, Flutter
 
 * **Main OS Distribution**: Fedora KDE
 
